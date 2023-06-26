@@ -9,3 +9,5 @@ Possible experiment:
 2. Use AI to notice patterns in the response based on the results for clinical trials recorded (common side effects? Varying levels of efficacy?)
 3. Repeat for post-market trials that tend to have a lot more participants and reflect the diversity of the general population
 4. Answer the following questions: Was there correlation between race and respones? What may have caused it? Were the clinical trails indicative of this association? If not, do they need to be more diverse?
+
+My next step is to look at https://clinicaltrials.gov/ for various databases of clinical trials and post-marketing data. 
