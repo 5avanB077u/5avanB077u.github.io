@@ -1,13 +1,13 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "Diversifying Race in Clinical Trials"
+author: "savan Bollu"
+description: "Race is correlated with exposure and response to drugs because of both intrinsic (genotype) and extrinsic factors. This project aims to understand what the genetic breakdown of a clinical trial should look like for it to be diverse enough to represent outcomes for races in the drug's target population." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+email: "savanbollu@gmail.com"
+#twitter_username:
+github_username: "5avanB077u"
+#linkedin_username:
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
