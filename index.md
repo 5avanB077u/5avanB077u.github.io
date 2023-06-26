@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This is a personal blog to record my progress on a research project about diversifying race in clinical trials to ensure that they are thorough and can be used to understand the effect that a patient's race might have in response to a certain drug.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Run by high school senior Savan Bollu. 
