@@ -13,3 +13,7 @@ Along that vein (no pun intended), I read an article from Tufts University (http
 It said that combination therapy helps treat infections where there are multiple pathogens or they are in different states. Multiple drugs working together, known as synergy, may help them boost each other’s efficacy, work more quickly, or require smaller doses of each drug. 
 
 Fascinated by these positive outcomes, I drafted a potential problem statement: How can AI be used to simulate various combination therapies in the human body and narrow down those with high probability of success? 
+
+I thought it could be interesting to use AI to either: 
+1. Simulate various drug combinations and see which ones are most effective or
+2. More specifically look at the side effects of different combinations and how they affect factors like drug resistance. 
