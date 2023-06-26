@@ -1,4 +1,4 @@
-## Preliminary Research Pt. 1
+## Preliminary Research Pt. 1: What is AI capable of? 
 
 My project mentor from Analysis Group, who offers consulting services to drug development corporations, recommended integrating AI into this project because of the recent AI revolution in programs like ChatGPT. 
 
