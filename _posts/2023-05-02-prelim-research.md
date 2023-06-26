@@ -1,3 +1,5 @@
+## Preliminary Research Pt. 3: Racial Diversity in Clinical Trials
+
 As a life update, I had spent the past few week preparing for my AP Chemistry, AP Calclulus BC, and AP Physics 1 exams coming up at the beginning of May, so I wasn't able to work as much on this project as much at that time. 
 
 At this point, I decided to look at something completely different from combination therapy, because I was just getting into this field of pharmacy and drug development and wanted to explore my options for this research project--so I looked at racial diversity in clinical trials, which is a major issue. 
